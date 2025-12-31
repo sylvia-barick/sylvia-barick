@@ -47,59 +47,57 @@ Academic performance:
 
 ---
 
-## Projects
+## Projects Timeline
 
-### Mindpal (Live Project)  
-**Technology:** React, AI concepts, VR-based simulations  
+──────────────────────────────────
+### 2024 – Present
+### 🧠 Mindpal | Mental Wellness & Cognitive Training (Live Project)
+**Tech Stack:** React, AI Concepts, VR-Based Simulations  
 
-Mindpal is an immersive platform focused on **mental wellness and cognitive training**.  
-The project explores how interactive environments, guided audio-visual therapy, and gamified simulations can positively impact focus, stress, and mental health.
+An immersive digital platform designed to improve mental wellness through interactive environments and guided audio-visual therapy.
 
-Key aspects:
-- Real-time interactive user experience
-- Focus on human-centered design and wellness outcomes
-- Built as a scalable and extensible platform  
+Focus & Impact:
+- Designed real-time interactive user experiences
+- Integrated cognitive training and relaxation workflows
+- Built with scalability in mind for long-term wellness use cases
 
----
+──────────────────────────────────
+### 2024 – Present
+### 🎥 Xencruit | AI Interview Intelligence System (Live Project)
+**Tech Stack:** Computer Vision, NLP, Machine Learning  
 
-### Xencruit (Live Project)  
-**Technology:** Computer Vision, NLP, Machine Learning  
+An AI-powered system that evaluates interview performance beyond resumes by analyzing behavioral and vocal signals.
 
-Xencruit is an AI-powered interview analysis system designed to evaluate candidates beyond resumes.  
-It analyzes visual and audio cues to provide structured insights into interview performance.
-
-Key aspects:
+Focus & Impact:
 - Facial expression and engagement analysis
-- Speech tone and confidence evaluation
-- Application of ML models to real interview scenarios  
+- Speech tone, confidence, and clarity evaluation
+- Machine learning–based performance insights
 
----
+──────────────────────────────────
+### 2024
+### 🚗 Cognitive Load Detection System for Drivers
+**Tech Stack:** Computer Vision, Machine Learning  
 
-### Cognitive Load Detection System for Drivers  
-**Technology:** Computer Vision, Machine Learning  
+A real-time safety system aimed at detecting driver fatigue, distraction, and cognitive overload to reduce accident risks.
 
-This project focuses on **real-time driver safety** by monitoring fatigue, distraction, and cognitive overload.  
-The system aims to reduce accident risks by triggering alerts during critical moments.
+Focus & Impact:
+- Live visual cue analysis from camera feeds
+- Cognitive state classification using ML models
+- Alert-based intervention mechanism
 
-Key aspects:
-- Visual and physiological signal analysis
-- ML-based classification of driver states
-- Practical safety-oriented application  
+──────────────────────────────────
+### 2024
+### 🔐 AlgotimeLock | Decentralized Freelance Escrow
+**Tech Stack:** Web3, Algorand Smart Contracts  
 
----
+A trustless escrow vault built on Algorand to ensure fair payments between freelancers and clients.
 
-### AlgotimeLock  
-**Technology:** Web3, Algorand Smart Contracts  
+Focus & Impact:
+- Time-locked smart contract fund vaults
+- Automatic release on project completion
+- Optional arbiter-based dispute resolution
 
-AlgotimeLock is a decentralized escrow system built for freelancers and clients.  
-It removes the need for trust by using smart contracts to control fund release.
-
-Key aspects:
-- Funds are locked securely on-chain
-- Automatic release upon project completion
-- Optional arbiter-based dispute resolution  
-
----
+──────────────────────────────────
 
 ## Achievements & Activities
 
