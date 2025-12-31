@@ -12,7 +12,7 @@
 
 ---
 
-## 🚀 About Me
+##  About Me
 
 >  *A passionate developer who loves building meaningful, scalable, and human-centric technology.*
 
