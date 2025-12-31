@@ -49,55 +49,13 @@ Academic performance:
 
 ## Projects Timeline
 
-──────────────────────────────────
-### 2024 – Present
-### 🧠 Mindpal | Mental Wellness & Cognitive Training (Live Project)
-**Tech Stack:** React, AI Concepts, VR-Based Simulations  
+| Left Side | Right Side |
+|----------|-----------|
+| **🧠 Mindpal** <br><br> **Duration:** 2024 – Present <br> **Type:** Live Project <br><br> **Tech:** React, AI Concepts, VR <br><br> An immersive mental wellness platform focused on cognitive training through interactive environments and guided audio-visual therapy. <br><br> **Key Work:** <br> • Built real-time interactive UI <br> • Designed human-centered wellness flows <br> • Structured for scalability | |
+| | **🎥 Xencruit** <br><br> **Duration:** 2024 – Present <br> **Type:** Live Project <br><br> **Tech:** Computer Vision, NLP, ML <br><br> AI-driven interview analysis system evaluating candidates beyond resumes using visual and vocal cues. <br><br> **Key Work:** <br> • Facial expression analysis <br> • Speech tone & confidence evaluation <br> • ML-based performance insights |
+| **🚗 Cognitive Load Detection System** <br><br> **Year:** 2024 <br><br> **Tech:** Computer Vision, Machine Learning <br><br> Real-time driver safety system to detect fatigue, distraction, and cognitive overload. <br><br> **Key Work:** <br> • Visual cue monitoring <br> • Cognitive state classification <br> • Alert-based intervention | |
+| | **🔐 AlgotimeLock** <br><br> **Year:** 2024 <br><br> **Tech:** Web3, Algorand Smart Contracts <br><br> Decentralized freelance escrow vault ensuring trustless fund release on project completion. <br><br> **Key Work:** <br> • Time-locked smart contracts <br> • Condition-based fund release <br> • Arbiter-based dispute handling |
 
-An immersive digital platform designed to improve mental wellness through interactive environments and guided audio-visual therapy.
-
-Focus & Impact:
-- Designed real-time interactive user experiences
-- Integrated cognitive training and relaxation workflows
-- Built with scalability in mind for long-term wellness use cases
-
-──────────────────────────────────
-### 2024 – Present
-### 🎥 Xencruit | AI Interview Intelligence System (Live Project)
-**Tech Stack:** Computer Vision, NLP, Machine Learning  
-
-An AI-powered system that evaluates interview performance beyond resumes by analyzing behavioral and vocal signals.
-
-Focus & Impact:
-- Facial expression and engagement analysis
-- Speech tone, confidence, and clarity evaluation
-- Machine learning–based performance insights
-
-──────────────────────────────────
-### 2024
-### 🚗 Cognitive Load Detection System for Drivers
-**Tech Stack:** Computer Vision, Machine Learning  
-
-A real-time safety system aimed at detecting driver fatigue, distraction, and cognitive overload to reduce accident risks.
-
-Focus & Impact:
-- Live visual cue analysis from camera feeds
-- Cognitive state classification using ML models
-- Alert-based intervention mechanism
-
-──────────────────────────────────
-### 2024
-### 🔐 AlgotimeLock | Decentralized Freelance Escrow
-**Tech Stack:** Web3, Algorand Smart Contracts  
-
-A trustless escrow vault built on Algorand to ensure fair payments between freelancers and clients.
-
-Focus & Impact:
-- Time-locked smart contract fund vaults
-- Automatic release on project completion
-- Optional arbiter-based dispute resolution
-
-──────────────────────────────────
 
 ## Achievements & Activities
 
