@@ -1,88 +1,119 @@
 ![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg)
 
-<h1 align="center">Hi 👋, I'm Sylvia Barick</h1>
+<h1 align="center">Hi, I'm Sylvia Barick</h1>
 <h3 align="center">AIML Engineer | Full Stack Developer | Web3 Developer | Tech Explorer</h3>
-
-
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sylvia-barick&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
+---
+
+## About Me
+
+I am a **Computer Science undergraduate specializing in AI & Machine Learning**, driven by curiosity and a strong desire to build technology that actually matters.  
+My interests lie at the intersection of **AI systems, scalable web platforms, and decentralized technologies**.
+
+Rather than limiting myself to theory, I focus heavily on **hands-on development**, live projects, and hackathons where ideas are tested under real constraints.
+
+What defines my approach:
+- Constantly experimenting with AI, ML, Agentic AI, and modern full-stack tools  
+- Strong inclination towards product-focused engineering and user-centric design  
+- Actively exploring domains like mental wellness technology and intelligent systems  
+- Enjoy solving complex bugs and edge cases that most people avoid  
 
 ---
 
-##  About Me
+## Education
 
->  *A passionate developer who loves building meaningful, scalable, and human-centric technology.*
-
-I am a **B.Tech CSE (AI-ML) undergraduate** with strong interests in **Frontend Development, Artificial Intelligence, Machine Learning, and Web3**.  
-I actively participate in **hackathons, live projects, and tech communities**, where I transform ideas into real-world solutions.
-
--  Learning **AI, ML, Agentic AI & Advanced Web Development**
--  Interested in **AI systems, mental wellness tech, and product engineering**
--  Fun fact: *Debugging is like being the detective and the culprit at the same time*
-
----
-
-##  Education
-
-###  Institute of Engineering & Management (IEM), Kolkata  
+### Institute of Engineering & Management (IEM), Kolkata  
 **B.Tech – Computer Science & Engineering (AI & ML)**  
- *July 2024 – Present*  
-- **CGPA:** 8.8  
-- Focus: AI-ML, Web3, Full-Stack, Cybersecurity  
+July 2024 – Present  
 
-###  Gokhale Memorial Girls’ School, Kolkata  
- *2012 – 2024*  
-- **Class XII (CBSE):** 89.6%  
-- **Class X (CBSE):** 96%  
+Academic highlights:
+- Current CGPA: **8.8**
+- Core focus on AI-ML, Full-Stack Development, Web3, and Cybersecurity
+- Strong balance between academic foundations and practical implementation  
 
 ---
 
-##  Projects
+### Gokhale Memorial Girls’ School, Kolkata  
+2012 – 2024  
 
-###  Mindpal *(Live Project)*  
-**Tech:** React, AI, VR  
-- Immersive VR platform for mental wellness & cognitive training  
-- Gamified therapy, neurofeedback & audio-visual stimulation  
-
----
-
-###  Xencruit *(Live Project)*  
-**Tech:** Computer Vision, NLP, Machine Learning  
-- AI-driven interview analysis platform  
-- Evaluates facial expressions, speech tone, confidence & engagement  
+Academic performance:
+- Class XII (CBSE): **89.6%**
+- Class X (CBSE): **96%**
+- Consistently strong performance in mathematics and science subjects  
 
 ---
 
-###  Cognitive Load Detection System for Drivers  
-**Tech:** Computer Vision, ML  
-- Detects fatigue, distraction & cognitive overload  
-- Triggers real-time safety alerts  
+## Projects
+
+### Mindpal (Live Project)  
+**Technology:** React, AI concepts, VR-based simulations  
+
+Mindpal is an immersive platform focused on **mental wellness and cognitive training**.  
+The project explores how interactive environments, guided audio-visual therapy, and gamified simulations can positively impact focus, stress, and mental health.
+
+Key aspects:
+- Real-time interactive user experience
+- Focus on human-centered design and wellness outcomes
+- Built as a scalable and extensible platform  
 
 ---
 
-###  AlgotimeLock  
-**Tech:** Web3, Algorand Smart Contracts  
-- Trustless freelance escrow vault on Algorand  
-- Funds unlock only after project completion or arbiter approval  
+### Xencruit (Live Project)  
+**Technology:** Computer Vision, NLP, Machine Learning  
+
+Xencruit is an AI-powered interview analysis system designed to evaluate candidates beyond resumes.  
+It analyzes visual and audio cues to provide structured insights into interview performance.
+
+Key aspects:
+- Facial expression and engagement analysis
+- Speech tone and confidence evaluation
+- Application of ML models to real interview scenarios  
 
 ---
 
-##  Achievements & Activities
+### Cognitive Load Detection System for Drivers  
+**Technology:** Computer Vision, Machine Learning  
 
--  **ICYIM Hackathon – 1st Runner-Up**  
-- Hackathons: Craft & Code, Hexafalls, Central India Hackathon, SIH  
--  Organizer – **Smart Make-a-Thon**  
--  Website Developer – IEM Comicverse, SSO Olympiad Portal  
--  Team Member – Drone Development Challenge  
--  Smart Maker’s Festival – 5 Project Showcases  
--  IDE Bootcamp, Ranchi – *Rated 3.9/5*  
+This project focuses on **real-time driver safety** by monitoring fatigue, distraction, and cognitive overload.  
+The system aims to reduce accident risks by triggering alerts during critical moments.
+
+Key aspects:
+- Visual and physiological signal analysis
+- ML-based classification of driver states
+- Practical safety-oriented application  
 
 ---
 
-##  Tech Stack & Tools
+### AlgotimeLock  
+**Technology:** Web3, Algorand Smart Contracts  
+
+AlgotimeLock is a decentralized escrow system built for freelancers and clients.  
+It removes the need for trust by using smart contracts to control fund release.
+
+Key aspects:
+- Funds are locked securely on-chain
+- Automatic release upon project completion
+- Optional arbiter-based dispute resolution  
+
+---
+
+## Achievements & Activities
+
+- First Runner-Up at **ICYIM Hackathon**
+- Participated in multiple national-level hackathons including Craft & Code, Hexafalls, Central India Hackathon, and Smart India Hackathon
+- Organizer of **Smart Make-a-Thon**, handling technical and coordination responsibilities
+- Designed and developed websites for platforms like IEM Comicverse and SSO Olympiad Portal
+- Contributed as a team member in a Drone Development Challenge
+- Showcased five projects at the Smart Maker’s Festival
+- Completed IDE Bootcamp, Ranchi with a performance rating of **3.9/5**
+
+---
+
+## Tech Stack & Tools
 
 <p align="left">
   <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="40"/>
@@ -98,7 +129,7 @@ I actively participate in **hackathons, live projects, and tech communities**, w
 
 ---
 
-##  GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sylvia-barick&theme=radical&hide_border=true"/>
@@ -118,12 +149,12 @@ I actively participate in **hackathons, live projects, and tech communities**, w
 
 ---
 
-##  Contact & Links
+## Contact & Links
 
--  **LinkedIn:** https://www.linkedin.com/in/sylvia-barick-081651321/  
--  **GitHub:** https://github.com/sylvia-barick  
--  **Portfolio:** https://sylviaportfolio.vercel.app/  
--  **Email:** taniabarick15@gmail.com  
--  **Twitter (X):** https://x.com/5_barick  
+- LinkedIn: https://www.linkedin.com/in/sylvia-barick-081651321/  
+- GitHub: https://github.com/sylvia-barick  
+- Portfolio: https://sylviaportfolio.vercel.app/  
+- Email: taniabarick15@gmail.com  
+- Twitter (X): https://x.com/5_barick  
 
 ---
