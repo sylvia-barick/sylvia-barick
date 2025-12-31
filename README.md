@@ -1,7 +1,8 @@
 ![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg)
 
 <h1 align="center">Hi 👋, I'm Sylvia Barick</h1>
-<h3 align="center">Frontend Developer | AIML Enthusiast | Tech Explorer</h3>
+<h3 align="center">AIML Engineer | Full Stack Developer | Web3 Developer | Tech Explorer</h3>
+
 
 
 <p align="center">
@@ -18,7 +19,6 @@
 I am a **B.Tech CSE (AI-ML) undergraduate** with strong interests in **Frontend Development, Artificial Intelligence, Machine Learning, and Web3**.  
 I actively participate in **hackathons, live projects, and tech communities**, where I transform ideas into real-world solutions.
 
--  Currently working on **Xencruit**
 -  Learning **AI, ML, Agentic AI & Advanced Web Development**
 -  Interested in **AI systems, mental wellness tech, and product engineering**
 -  Fun fact: *Debugging is like being the detective and the culprit at the same time*
