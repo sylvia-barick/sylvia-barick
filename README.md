@@ -11,7 +11,7 @@
 
 ## About Me
 
-I am a **Computer Science undergraduate specializing in AI & Machine Learning**, driven by curiosity and a strong desire to build technology that actually matters.  
+I am a **Computer Science undergraduate specializing  in AI & Machine Learning**, driven by curiosity and a strong desire to build technology that actually matters.  
 My interests lie at the intersection of **AI systems, scalable web platforms, and decentralized technologies**.
 
 Rather than limiting myself to theory, I focus heavily on **hands-on development**, live projects, and hackathons where ideas are tested under real constraints.
