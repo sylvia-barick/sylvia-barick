@@ -1,6 +1,6 @@
 ![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg)
 
-<h1 align="center">Hi, I'm Sylvia Barick   </h1>
+<h1 align="center">Hi, I'm Sylvia Barick </h1>
 <h3 align="center">AIML Engineer | Full Stack Developer | Web3 Developer | Tech Explorer</h3>
 
 <p align="center">
