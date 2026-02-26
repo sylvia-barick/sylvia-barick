@@ -151,7 +151,7 @@ Focus & Impact:
 
 - LinkedIn: https://www.linkedin.com/in/sylvia-barick-081651321/  
 - GitHub: https://github.com/sylvia-barick  
-- Portfolio: https://sylviaportfolio.vercel.app/  
+- Portfolio: https://sylvia-seven.vercel.app/  
 - Email: taniabarick15@gmail.com  
 - Twitter (X): https://x.com/5_barick  
 
