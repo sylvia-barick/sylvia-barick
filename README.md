@@ -48,12 +48,12 @@ Academic performance:
 ---
 ## 🚀 Projects Overview
 
-| Project Name | Description | Tech Stack | Status |
-|-------------|-------------|-----------|--------|
-| **🧠 Mindpal** | Mental wellness & cognitive training platform using immersive environments and guided audio-visual therapy | React, AI Concepts, VR Simulations | Live |
-| **🎥 Xencruit** | AI-powered interview intelligence system analyzing facial expressions, speech tone, confidence & engagement | Computer Vision, NLP, Machine Learning | Live |
-| **🌍 AEGIS** | AI + blockchain-based disaster management system for automated detection, verification, and transparent relief fund distribution | AI Agents, Computer Vision, Machine Learning, Blockchain | Completed |
-| **🔐 AlgotimeLock** | Decentralized escrow vault enabling trustless freelancer–client payments | Web3, Algorand Smart Contracts | Completed |
+| Project Name | Description | Tech Stack |
+|-------------|-------------|-----------|
+| **🧠 Mindpal** | Mental wellness & cognitive training platform using immersive environments and guided audio-visual therapy | React, AI Concepts, VR Simulations | 
+| **🎥 Xencruit** | AI-powered interview intelligence system analyzing facial expressions, speech tone, confidence & engagement | Computer Vision, NLP, Machine Learning | 
+| **🌍 AEGIS** | AI + blockchain-based disaster management system for automated detection, verification, and transparent relief fund distribution | AI Agents, Computer Vision, Machine Learning, Blockchain | 
+| **🔐 AlgotimeLock** | Decentralized escrow vault enabling trustless freelancer–client payments | Web3, Algorand Smart Contracts | 
 
 ---
 
