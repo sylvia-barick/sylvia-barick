@@ -109,43 +109,6 @@ Focus & Impact:
 - Showcased five projects at the Smart Maker’s Festival
 - Completed IDE Bootcamp, Ranchi with a performance rating of **3.9/5**
 
----
-
-## Tech Stack & Tools
-
-<p align="left">
-  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/>
-</p>
-
----
-
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sylvia-barick&theme=radical&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sylvia-barick&show_icons=true&theme=radical"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sylvia-barick&layout=compact&theme=radical"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sylvia-barick&theme=radical&no-frame=true"/>
-</p>
-
----
 
 ## Contact & Links
 
