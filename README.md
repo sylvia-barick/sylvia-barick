@@ -46,69 +46,62 @@ Academic performance:
 - Consistently strong performance in mathematics and science subjects  
 
 ---
+## 🚀 Projects Overview
 
-## Projects Timeline
+| Project Name | Description | Tech Stack | Status |
+|-------------|-------------|-----------|--------|
+| **🧠 Mindpal** | Mental wellness & cognitive training platform using immersive environments and guided audio-visual therapy | React, AI Concepts, VR Simulations | Live |
+| **🎥 Xencruit** | AI-powered interview intelligence system analyzing facial expressions, speech tone, confidence & engagement | Computer Vision, NLP, Machine Learning | Live |
+| **🌍 AEGIS** | AI + blockchain-based disaster management system for automated detection, verification, and transparent relief fund distribution | AI Agents, Computer Vision, Machine Learning, Blockchain | Completed |
+| **🔐 AlgotimeLock** | Decentralized escrow vault enabling trustless freelancer–client payments | Web3, Algorand Smart Contracts | Completed |
 
-──────────────────────────────────
-### 2024 – Present
-### 🧠 Mindpal | Mental Wellness & Cognitive Training (Live Project)
-**Tech Stack:** React, AI Concepts, VR-Based Simulations  
+---
 
-An immersive digital platform designed to improve mental wellness through interactive environments and guided audio-visual therapy.
+## 🏆 Achievements & Hackathons
 
-Focus & Impact:
-- Designed real-time interactive user experiences
-- Integrated cognitive training and relaxation workflows
-- Built with scalability in mind for long-term wellness use cases
+| Category | Details |
+|--------|--------|
+| Major Win | 🏆 **Winner – Tech Triad Hackathon, IIT Kharagpur** |
+| Hackathons | **Most Innovative** – Hack Synthesis 2.0 |
+| Finalist | Kshitij IIT Kharagpur |
+| Hackathons | Hexafalls 2025, Craftncode 2024 |
+| Web3 Programs | Algorand Buildstation, Team1 Avalanche |
+| Web3 Programs | Rise In – Celo, Rise In – Stellar |
+| Others | Algorand |
 
-──────────────────────────────────
-### 2024 – Present
-### 🎥 Xencruit | AI Interview Intelligence System (Live Project)
-**Tech Stack:** Computer Vision, NLP, Machine Learning  
+---
 
-An AI-powered system that evaluates interview performance beyond resumes by analyzing behavioral and vocal signals.
+## 🧑‍💻 Leadership & Technical Roles
 
-Focus & Impact:
-- Facial expression and engagement analysis
-- Speech tone, confidence, and clarity evaluation
-- Machine learning–based performance insights
+| Role | Organization |
+|-----|-------------|
+| Organizer | Smart Make-A-Thon |
+| Website Creator | IEM Comicverse |
+| Website Creator | Smart Society Olympiad |
+| Website Creator | Kolkata Film Festival |
+| Website Creator | Converge |
+| Website Creator | Spell Bee |
 
-──────────────────────────────────
-### 2024
-### 🚗 Cognitive Load Detection System for Drivers
-**Tech Stack:** Computer Vision, Machine Learning  
+---
 
-A real-time safety system aimed at detecting driver fatigue, distraction, and cognitive overload to reduce accident risks.
+## 🏛️ Exhibitions & Contributions
 
-Focus & Impact:
-- Live visual cue analysis from camera feeds
-- Cognitive state classification using ML models
-- Alert-based intervention mechanism
+| Event | Details |
+|-----|---------|
+| Exhibition | IIT Tech Exhibition |
+| Training | IDE Bootcamp, Ranchi (**Rated 3.9/5**) |
 
-──────────────────────────────────
-### 2024
-### 🔐 AlgotimeLock | Decentralized Freelance Escrow
-**Tech Stack:** Web3, Algorand Smart Contracts  
+---
 
-A trustless escrow vault built on Algorand to ensure fair payments between freelancers and clients.
+## 🌱 Volunteering & Community Leadership
 
-Focus & Impact:
-- Time-locked smart contract fund vaults
-- Automatic release on project completion
-- Optional arbiter-based dispute resolution
-
-──────────────────────────────────
-
-## Achievements & Activities
-
-- First Runner-Up at **ICYIM Hackathon**
-- Participated in multiple national-level hackathons including Craft & Code, Hexafalls, Central India Hackathon, and Smart India Hackathon
-- Organizer of **Smart Make-a-Thon**, handling technical and coordination responsibilities
-- Designed and developed websites for platforms like IEM Comicverse and SSO Olympiad Portal
-- Contributed as a team member in a Drone Development Challenge
-- Showcased five projects at the Smart Maker’s Festival
-- Completed IDE Bootcamp, Ranchi with a performance rating of **3.9/5**
-
+| Role | Organization |
+|-----|-------------|
+| Active Volunteer & Domain Lead | Smart Maker’s Festival (2024 & 2025) |
+| Volunteer | Mechatronica |
+| Volunteer | Innovacion |
+| Core Member | IEM Comicverse |
+| Volunteer | SSO Olympiad |
 
 ## Contact & Links
 
