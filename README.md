@@ -1,51 +1,51 @@
 ![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg)
-
-<h1 align="center">Hi, I'm Sylvia Barick  </h1>
-<h3 align="center">AIML Engineer | Full Stack Developer | Web3 Developer | Tech Explorer</h3>
+<h1 align="center">Hi, I'm Sylvia Barick 👋</h1>
+<h3 align="center">AI & ML Engineer | Full-Stack Developer | Web3 Builder</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sylvia-barick&label=Profile%20views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=sylvia-barick&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
-## About Me
+## 👩‍💻 About Me
 
-I am a **Computer Science undergraduate specializing  in AI & Machine Learning**, driven by curiosity and a strong desire to build technology that actually matters.  
-My interests lie at the intersection of **AI systems, scalable web platforms, and decentralized technologies**.
+I am a **Computer Science undergraduate specializing in Artificial Intelligence & Machine Learning**, focused on building technology that is practical, scalable, and impactful.
 
-Rather than limiting myself to theory, I focus heavily on **hands-on development**, live projects, and hackathons where ideas are tested under real constraints.
+My interests lie at the intersection of **AI systems, full-stack web platforms, and decentralized technologies**.  
+I prioritize **hands-on development**, live projects, and hackathons where ideas are tested under real constraints.
 
-What defines my approach:
-- Constantly experimenting with AI, ML, Agentic AI, and modern full-stack tools  
-- Strong inclination towards product-focused engineering and user-centric design  
-- Actively exploring domains like mental wellness technology and intelligent systems  
-- Enjoy solving complex bugs and edge cases that most people avoid  
+### Core Interests & Approach
+
+| Area | Focus |
+|-----|------|
+| Artificial Intelligence | Machine Learning, Agentic AI, applied AI systems |
+| Full-Stack Development | Scalable web applications, product-oriented design |
+| Web3 | Decentralized applications and blockchain integration |
+| Problem Solving | Debugging complex issues and edge-case handling |
 
 ---
 
-## Education
+##  🎓 Education
 
 ### Institute of Engineering & Management (IEM), Kolkata  
 **B.Tech – Computer Science & Engineering (AI & ML)**  
-July 2024 – Present  
+*July 2024 – Present*
 
-Academic highlights:
-- Current CGPA: **8.8**
-- Core focus on AI-ML, Full-Stack Development, Web3, and Cybersecurity
-- Strong balance between academic foundations and practical implementation  
+| Academic Details | |
+|-----------------|--|
+| CGPA | **8.8** |
+| Focus Areas | AI-ML, Full-Stack Development, Web3, Cybersecurity |
 
 ---
 
 ### Gokhale Memorial Girls’ School, Kolkata  
-2012 – 2024  
+*2012 – 2024*
 
-Academic performance:
-- Class XII (CBSE): **89.6%**
-- Class X (CBSE): **96%**
-- Consistently strong performance in mathematics and science subjects  
-
----
+| Examination | Score |
+|------------|-------|
+| Class XII (CBSE) | **89.6%** |
+| Class X (CBSE) | **96%** |
 ## 🚀 Projects Overview
 
 | Project Name | Description | Tech Stack |
