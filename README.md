@@ -84,14 +84,6 @@ I prioritize **hands-on development**, live projects, and hackathons where ideas
 
 ---
 
-## 🏛️ Exhibitions & Contributions
-
-| Event | Details |
-|-----|---------|
-| Exhibition | IIT Tech Exhibition |
-| Training | IDE Bootcamp, Ranchi (**Rated 3.9/5**) |
-
----
 
 ## 🌱 Volunteering & Community Leadership
 
