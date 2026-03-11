@@ -1,6 +1,6 @@
 ![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg)        
 <h1 align="center">Hi, I'm Sylvia Barick 👋</h1>            
-<h3 align="center">AI & ML Engineer | Full-Stack Developer | Web3 Builder</h3>                 
+<h3 align="center">AI & ML Engineer | Full-Stack Developer | Web3 Builder</h3>                  
                    
 <p align="center">   
   <img src="https://komarev.com/ghpvc/?username=sylvia-barick&label=Profile%20Views&color=0e75b6&style=flat" />  
