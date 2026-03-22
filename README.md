@@ -3,7 +3,7 @@
 <h3 align="center">AI & ML Engineer | Full-Stack Developer | Web3 Builder</h3>                             
                            
 <p align="center">             
-  <img src="https://komarev.com/ghpvc/?username=sylvia-barick&label=Profile%20Views&color=0e75b6&style=flat" />  
+  <img src="https://komarev.com/ghpvc/?username=sylvia-barick&label=Profile%20Views&color=0e75b6&style=flat" />   
 </p>   
    
 --- 
