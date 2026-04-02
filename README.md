@@ -27,7 +27,7 @@ I prioritize **hands-on development**, live projects, and hackathons where ideas
 ---
 
 ##  🎓 Education
-
+ 
 ### Institute of Engineering & Management (IEM), Kolkata  
 **B.Tech – Computer Science & Engineering (AI & ML)**  
 *July 2024 – Present*
