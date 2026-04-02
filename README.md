@@ -7,7 +7,7 @@
 </p>    
     
 ---  
-
+ 
 ## 👩‍💻 About Me
 
 I am a **Computer Science undergraduate specializing in Artificial Intelligence & Machine Learning**, focused on building technology that is practical, scalable, and impactful.
